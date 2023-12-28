@@ -20,6 +20,9 @@ Unique identifier of a Commit
 
 ## Lesson 2: Branching
 Simple way of thinking: Version control as a linear series of saved files
+### Github Insights
+#### Network
+Provides a map of branches
 ### Terms
 #### Master (main) Branch
 
