@@ -8,5 +8,16 @@ Underlying system running on local machine
 ### GitHub & GitLab
 *Hosted* Git AKA a web service (kind of a social network)\
 Git system hosted on either the Cloud or the Web + extra useful features
+### Terms
+#### Repository
+A Project \
+*Cannot* have spaces, so use dash ie 'kebab case' \
+Good to create with a readme.md file
+#### Commit
+Think of commiting as 'saving' the file --> commiting changes to a particular version no
+#### Commit Hash
+Unique identifier of a Commit
+
+## Lesson 2
 
 
