@@ -25,5 +25,8 @@ Simple way of thinking: Version control as a linear series of saved files
 Provides a map of branches
 ### Terms
 #### Master (main) Branch
+#### Pull Request
+#### Merge
+Take changes and *pull* them into master
 
 
