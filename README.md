@@ -25,8 +25,15 @@ Simple way of thinking: Version control as a linear series of saved files
 Provides a map of branches
 ### Terms
 #### Master (main) Branch
-#### Pull Request
 #### Merge
 Take changes and *pull* them into master
+
+## Lesson 3: Forks and Pull Requests
+### Terms
+#### Fork
+Taking another entire instance of repo and having it under your account. Creates a linked copy rather than a completely independent copy
+#### Pull Request
+Send code to original repo
+
 
 
